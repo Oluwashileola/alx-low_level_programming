@@ -6,7 +6,7 @@
 /**
  * File: holberton.h
  *
- * Description: Header file containing prototypes of all functions
+ * Desc: Header file containing prototypes of all functions
  * used in the 0x02-functions_nested_loops directory
  *
  */
